@@ -9,5 +9,6 @@ int main()
     std::cout << "Mang array la: " << arr << std::endl;
     std::cout << "Dia chi mang array la: " << &arr << std::endl;
     std::cout << "Dia chi phan tu array 0 la: " << &arr[0] << std::endl;
+    std::cout << "-------------Then---------" << std::endl;
     return 0;
 }
